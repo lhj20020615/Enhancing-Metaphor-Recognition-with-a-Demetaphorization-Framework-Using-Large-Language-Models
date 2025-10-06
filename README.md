@@ -1,2 +1,3 @@
 # Enhancing-Metaphor-Recognition-with-a-Demetaphorization-Framework-Using-Large-Language-Models
 “This is a code repository for the paper, containing the essential implementation components. Redundant parts have been removed, and the accompanying documentation provides corresponding solutions and replacement strategies. We recommend that you conduct the experiment in accordance with these resources.”
+“The first dataset we provide is a cleaned corpus specifically designed for the demetaphorization experiment, and it is used in this study as the demetaphorization dataset. This dataset is composed of three parts: (i) labels (all set to 1, denoted as 1.tsv), (ii) the positions of the corresponding nominal metaphors within the sentences, and (iii) the original sentences.”
