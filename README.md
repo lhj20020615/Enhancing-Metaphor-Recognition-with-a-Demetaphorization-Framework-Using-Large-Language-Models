@@ -1,0 +1,2 @@
+# Enhancing-Metaphor-Recognition-with-a-Demetaphorization-Framework-Using-Large-Language-Models
+“This is a code repository for the paper, containing the essential implementation components. Redundant parts have been removed, and the accompanying documentation provides corresponding solutions and replacement strategies. We recommend that you conduct the experiment in accordance with these resources.”
